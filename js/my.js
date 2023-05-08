@@ -1,1 +1,1 @@
-alert('成功');
+console.log('my')
